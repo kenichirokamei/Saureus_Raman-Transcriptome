@@ -1,0 +1,1 @@
+Each column of the CSV files represents the changes in the area of a single colony with 1 min interval. 
