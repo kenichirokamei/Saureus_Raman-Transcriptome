@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Kamei"
+  given-names: "Ken-ichiro F."
+  orcid: "https://orcid.org/0009-0002-8026-4454"
+  affiliation: "The University of Tokyo"
+  website: "https://researchmap.jp/kenichirokamei?lang=en"
+title: "Code and data for \"Raman spectra identify vancomycin-resistant phenotypes and their transcriptomic features in Staphylococcus aureus\""
+doi: "10.5281/zenodo.23677805"
+url: "https://github.com/kenichirokamei/Saureus_Raman-Transcriptome"
+message: "If you use this code, please cite both the code itself and the related article in preferred-citation of CITATION.cff."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Kamei"
+    given-names: "Ken-ichiro F."
+  - family-names: "Okura"
+    given-names: "Reiko"
+  - family-names: "Kobayashi-Kirschvink"
+    given-names: "Koseki J."
+  - family-names: "Yamaguchi"
+    given-names: "Tetsuo"
+  - family-names: "Katayama"
+    given-names: "Yuki"
+  - family-names: "Wakamoto"
+    given-names: "Yuichi"
+  doi: "10.1128/mbio.02004-26"
+  title: "Raman spectra identify vancomycin-resistant phenotypes and their transcriptomic features in Staphylococcus aureus"
+  journal: "mBio"
+  publisher:
+    name: "American Society for Microbiology"
+  volume: 
+  pages: 
+  year: 
